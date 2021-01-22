@@ -74,6 +74,3 @@ func set_direction(hor_direction):
 #func velset(new_var):
 	#velocity = 0
 
-
-
-#set_color(Color(0.8,0.8,0.8))
