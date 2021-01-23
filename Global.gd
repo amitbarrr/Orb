@@ -6,9 +6,6 @@ var hour = Time.hour;
 var minute = Time.minute;
 var seconds = Time.second;
 
-var curret_scene = null
-
-
 func _ready():
 	var root = get_tree().get_root()
 	current_scene = root.get_child(root.get_child_count() - 1)

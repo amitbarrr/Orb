@@ -13,7 +13,6 @@ var esc_check = 0
 
 signal shader
 signal popup
-signal direction(hor_direction)
 
 const walkspeed = 400
 const DIRECTION_RIGHT = 1
@@ -75,3 +74,6 @@ func set_direction(hor_direction):
 #func velset(new_var):
 	#velocity = 0
 
+
+
+#set_color(Color(0.8,0.8,0.8))
