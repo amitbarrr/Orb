@@ -13,6 +13,7 @@ var esc_check = 0
 
 signal shader
 signal popup
+signal direction(hor_direction)
 
 const walkspeed = 400
 const DIRECTION_RIGHT = 1
