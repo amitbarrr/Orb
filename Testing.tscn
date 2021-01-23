@@ -227,7 +227,7 @@ shape = SubResource( 3 )
 position = Vector2( -6, -19 )
 scale = Vector2( 2, 2 )
 frames = SubResource( 4 )
-frame = 4
+frame = 17
 playing = true
 
 [node name="TileMap" type="TileMap" parent="Lighting"]
