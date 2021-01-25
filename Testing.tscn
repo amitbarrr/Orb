@@ -215,7 +215,11 @@ shape = SubResource( 3 )
 position = Vector2( -6, -19 )
 scale = Vector2( 2, 2 )
 frames = SubResource( 4 )
-frame = 15
+<<<<<<< HEAD
+frame = 10
+=======
+frame = 4
+>>>>>>> parent of 9ca406d... Return to menu fix
 playing = true
 
 [node name="TileMap" type="TileMap" parent="Lighting"]
@@ -264,6 +268,6 @@ __meta__ = {
 [connection signal="popup" from="Lighting/Character" to="ESCMenu" method="_on_Character_popup"]
 [connection signal="shader" from="Lighting/Character" to="Lighting" method="_on_Character_shader"]
 [connection signal="hideshader" from="ESCMenu" to="Lighting" method="_on_ESCMenu_hideshader"]
-[connection signal="pressed" from="ESCMenu/Resume" to="ESCMenu/Resume" method="_on_Resume_pressed"]
 [connection signal="pressed" from="ESCMenu/Resume" to="ESCMenu" method="_on_Resume_pressed"]
+[connection signal="pressed" from="ESCMenu/Resume" to="ESCMenu/Resume" method="_on_Resume_pressed"]
 [connection signal="pressed" from="ESCMenu/Exit" to="ESCMenu/Exit" method="_on_Exit_pressed"]
