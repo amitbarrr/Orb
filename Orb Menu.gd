@@ -1,20 +1,32 @@
-extends PopupMenu
+extends Container
 
 
-export var radius = 120
-export var speed = 0.5
-
-var num
-var active = false
+export var button_radius = 100 
+export var radial_width = 50 
 
 func _ready():
-	$Buttons.hide()
-	num = $Buttons.get_child_count()
-	for b in $Buttons.get_children():
-		b.rect_position = rect_position
-	connect("pressed", self, "_on_StartButton_pressed")
+	place_buttons()
 
+func place_buttons():
+	var buttons = get_children()
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
+	if buttons.size() == 0:
+		return
+
+	var angle_offset = (2*PI)/buttons.size() 
+
+	var angle = 0 
+	for btn in buttons: 
+		var x = cos(angle)*button_radius
+		var y = sin(angle)*button_radius
+
+		
+		var corner_pos = Vector2(x, -y)-(btn.get_size()/2) 
+		btn.set_position(corner_pos)
+
+		angle += angle_offset
+
+func add_button(btn):
+	add_child(btn)
+	place_buttons()
+
