@@ -1,15 +1,11 @@
 extends Node
 
 var current_scene = null
-var Time = OS.get_time()
-var hour = Time.hour;
-var minute = Time.minute;
-var seconds = Time.second;
 
 func _ready():
 	var root = get_tree().get_root()
 	current_scene = root.get_child(root.get_child_count() - 1)
-	get_tree().change_scene("res://MainMenu.tscn")
+#	get_tree().change_scene("res://MainMenu.tscn")
 	
 func goto_scene(path):
 	# This function will usually be called from a signal callback,
