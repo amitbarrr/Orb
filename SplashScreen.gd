@@ -8,8 +8,8 @@ func _ready():
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	if Input.is_action_pressed("Space"):
+func _process(_delta):
+	if Input.is_action_pressed("Skip"):
 		self.stop(true)
 		get_tree().change_scene("res://MainMenu.tscn")
 
