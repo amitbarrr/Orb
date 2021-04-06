@@ -17,3 +17,9 @@ func _physics_process(_delta):
 		speed = 0
 	if distance > 3:
 		speed = 400
+
+func _on_Node_StartOrb():
+	speed = 400
+
+func _on_Node_StopOrb():
+	speed = 0

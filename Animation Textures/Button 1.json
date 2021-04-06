@@ -1,0 +1,175 @@
+{ "frames": [
+   {
+    "filename": "Button 1 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 1.ase",
+    "frame": { "x": 38, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 2.ase",
+    "frame": { "x": 76, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 3.ase",
+    "frame": { "x": 114, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 4.ase",
+    "frame": { "x": 152, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 5.ase",
+    "frame": { "x": 190, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 6.ase",
+    "frame": { "x": 228, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 7.ase",
+    "frame": { "x": 266, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 8.ase",
+    "frame": { "x": 304, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 9.ase",
+    "frame": { "x": 342, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 10.ase",
+    "frame": { "x": 380, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 11.ase",
+    "frame": { "x": 418, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 12.ase",
+    "frame": { "x": 456, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 13.ase",
+    "frame": { "x": 494, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 14.ase",
+    "frame": { "x": 532, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 15.ase",
+    "frame": { "x": 570, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 16.ase",
+    "frame": { "x": 608, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "Button 1 17.ase",
+    "frame": { "x": 646, "y": 0, "w": 38, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 54 },
+    "sourceSize": { "w": 38, "h": 54 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-dev",
+  "image": "Button 1.png",
+  "format": "RGBA8888",
+  "size": { "w": 684, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}
